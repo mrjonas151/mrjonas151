@@ -2,9 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jonas-tomaz-15483120b)
 
-
-![Jonas status GitHub](https://github-readme-stats.vercel.app/api?username=mrjonas151&show_icons=true&theme=radical)
-
 ## Hard Skills
 
 <div style="display: inline_block"<br/>
