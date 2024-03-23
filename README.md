@@ -1,4 +1,6 @@
-### Olá, sou o Jonas Tomaz, seja bem-vind@ 👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Bem-Vind@+👋;+Me+chamo+Jonas+Tomaz!" />
+</h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jonas-tomaz-15483120b)
 
@@ -32,3 +34,7 @@
 </div> <br/>
 
 A tecnologia é um aprendizado que se renova a todo instante
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Muito+obrigado+pela+atenção!;" />
+</h1>
