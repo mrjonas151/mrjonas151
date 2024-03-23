@@ -1,12 +1,12 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Bem-Vind@+👋;+Me+chamo+Jonas+Tomaz!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Bem-Vind@+👋;+Me+chamo+Jonas+Tomaz!" />
 </h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jonas-tomaz-15483120b)
 
-## Hard Skills
-
 <div style="display: inline_block"<br/>
+  
+  ## Hard Skills:
   <img align="center" alt = "Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   
   <img align="center" alt = "Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
