@@ -6,7 +6,8 @@
 
 <div style="display: inline_block"<br/>
   
-  ## Hard Skills:
+  <h2 align="center">⚡Hard Skills⚡</h2> 
+  
   <img align="center" alt = "Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   
   <img align="center" alt = "Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -33,7 +34,7 @@
 
 </div> <br/>
 
-<div align="center">A tecnologia é um aprendizado que se renova a todo instante 😉 </div>
+<div align="center">-A tecnologia é um aprendizado que se renova a todo instante 😉 </div>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Muito+obrigado+pela+atenção!;" />
