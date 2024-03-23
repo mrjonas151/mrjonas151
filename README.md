@@ -33,7 +33,7 @@
 
 </div> <br/>
 
-A tecnologia é um aprendizado que se renova a todo instante
+<div align="center">A tecnologia é um aprendizado que se renova a todo instante 😉 </div>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Muito+obrigado+pela+atenção!;" />
